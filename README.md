@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practising the GitHub Flow.
+La coquille Saint-Jacques (Pecten maximus) est une espèce de mollusque bivalve marin de la famille des pectinidés. Parmi toutes les espèces de cette famille qui sont légalement autorisées à bénéficier de l'appellation commerciale « Saint-Jacques », elle est la plus recherchée des gastronomes. Elle est reconnaissable à sa grande taille comparée aux autres espèces du genre Pecten et à sa coquille pourvue de côtes en éventail, dont la valve supérieure est totalement plate, contrairement aux pétoncles ou vanneaux dont les deux valves sont bombées.
